@@ -1,0 +1,22 @@
+{
+  "kittens": [
+  { 
+    "name": "Seymore",
+    "age": 1,
+    "imageUrl": "images/kitten1.jpg",
+    "description": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+	 },
+	 {
+     "name": "Gertrude",
+     "age": 2,
+     "imageUrl": "images/kitten2.jpg",
+     "description": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+	 },
+	 {
+     "name": "Frank",
+     "age": 1,
+     "imageUrl": "images/kitten3.jpg",
+     "description": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+	 }
+	 ]  	 
+}
