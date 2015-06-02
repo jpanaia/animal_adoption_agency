@@ -1,5 +1,4 @@
-// console.log('\'Allo \'Allo!');
-$.getJSON( "/ajax/kittens.json", function( data ) {
+$.getJSON( "/ajax/animals.json", function( data ) {
   var items = [];
 
   $.each( data, function( key, val ) {
